@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Nuxt build directories
+.nuxt/
+dist/
+
+# Local environment files (if used)
+.env
+.env.*
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+
+# macOS system files
+.DS_Store
+
+# Optional: Editor and OS-specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: Coverage directory (if using tests)
+coverage/
